@@ -1,115 +1,143 @@
+<div align="center">
+  
 # Hi there 👋, I'm Waqas Naveed!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-naveed-630297247/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Waqas56jb)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/masoom_hamza56jb?igsh=emF5ZDIwNXI3bnVj)  
-[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://snapchat.com/add/hamza56jb?share_id=rbYfj9G-rCk&locale=en-US)
-
----
-
-## 👨‍💻 About Me  
-- 🎓 **Computer Science Student** at **FAST - NUCES**  
-- 🧑‍🔬 **Data Scientist** passionate about uncovering insights from data  
-- 📊 Expert in **Machine Learning, NLP, and Big Data Analytics**  
-- 💼 Developing end-to-end pipelines with scalable and production-ready solutions  
-- 🎯 Focused on contributing to open-source projects and advancing in the data science field
-
----
-
-## 🏆 Final Year Project: Health Genics  
-**Objective:**  
-Develop a fitness and rehabilitation app to detect body positions, create workout plans, and track recovery progress.
-
-**Key Features:**  
-- 🧍 **Body Position Detection** using **MediaPipe**  
-- 📊 **Power BI Dashboards** for tracking progress  
-- 🥗 Personalized **diet plans** aligned with user’s activities  
-- 💳 **Online Payment Gateway** for premium features  
-
-**Tech Stack:**  
-- **Backend:** Flask  
-- **AI Model:** MediaPipe  
-- **Visualization:** Power BI  
-- **Mobile App:** React Native
+  
+🚀 **A Passionate Data Scientist | Computer Science Student at FAST - NUCES**  
+🔍 Exploring the intersection of **AI, Big Data, and NLP** to unlock meaningful insights.  
+💼 Skilled in developing **end-to-end scalable solutions** and always eager to contribute to **open-source projects**!  
 
 ---
 
 ## 💼 Skills & Tools  
 
 ### 🛠️ **Programming Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
 ---
 
-### 🔢 **Data Science Skills**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+### 📊 **Analytics & Data Manipulation Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 **Analytical & Big Data Skills**  
-- **Exploratory Data Analysis (EDA)**  
-- **Data Cleaning and Preprocessing**  
-- **Machine Learning Modeling**  
-- **Data Visualization using Power BI and Matplotlib**  
-- **Big Data Processing with Apache Spark**  
+### 🤖 **Machine Learning Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-00E2C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+</p>
 
 ---
 
-### 🔡 **Natural Language Processing (NLP) Skills**  
-![NLTK](https://img.shields.io/badge/NLTK-85A2A2?style=for-the-badge)  
-![Spacy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF8A00?style=for-the-badge&logo=huggingface&logoColor=black)  
+### 🧠 **Deep Learning Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAI-808080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge" />
+</p>
 
-- **Text Preprocessing:** Tokenization, Stopword Removal, Stemming, Lemmatization  
-- **Sentiment Analysis and Text Classification**  
-- **Language Models:** BERT, GPT  
-- **Word Embeddings:** Word2Vec, GloVe  
+---
+
+### 🔡 **NLP Skills**  
+<p align="center">
+  <img src="https://img.shields.io/badge/NLTK-85A2A2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF8A00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gensim-6294F2?style=for-the-badge" />
+</p>
+
+---
+
+### 👁️ **Computer Vision Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF9C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detectron2-1E2A78?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open3D-111111?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/waqas-naveed-630297247/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Waqas56jb" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/masoom_hamza56jb?igsh=emF5ZDIwNXI3bnVj" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://snapchat.com/add/hamza56jb?share_id=rbYfj9G-rCk&locale=en-US" target="_blank">
+    <img src="https://img.shields.io/badge/-Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🏆 Final Year Project: Health Genics  
+A **fitness and rehabilitation** app focusing on body position detection, workout plans, and injury recovery.  
+
+**Key Features:**  
+- 🧍 **Body Position Detection:** MediaPipe  
+- 📊 **Progress Tracking:** Power BI Dashboards  
+- 🥗 **Personalized Diet Plans** based on user activities  
+- 💳 **Online Payment Gateway** for premium features  
+
+**Tech Stack:**  
+- **Backend:** Flask  
+- **Visualization:** Power BI  
+- **Mobile App:** React Native  
 
 ---
 
 ## 🚀 Previous Projects  
 
 ### 🔹 **Urdu Sentiment Analysis**  
-- **Description:** Built a sentiment analysis tool for Urdu social media text  
-- **Dataset:** 200,000+ words from Twitter and YouTube  
-- **Tech Used:** Python, NLTK, Logistic Regression  
-- **Outcome:** Improved sentiment prediction using custom stemming and lemmatization  
+- **Tech:** Python, NLTK  
+- **Outcome:** Custom stemming improved predictions  
 
-### 🔹 **Property Price Prediction in Faisalabad**  
-- **Description:** Developed a regression-based model to predict real estate prices  
-- **Tools:** Python, LazyRegressor, Scikit-learn  
-- **Result:** Evaluated five models and selected the best-performing one using RMSE and R-Squared metrics  
-
-### 🔹 **Data Mining & Visualization with Orange**  
-- **Objective:** Cleaned and visualized data using Orange tool  
-- **Outcome:** Extracted meaningful insights with clustering and statistical analysis  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-naveed-630297247/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Waqas56jb)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/masoom_hamza56jb?igsh=emF5ZDIwNXI3bnVj)  
-[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://snapchat.com/add/hamza56jb?share_id=rbYfj9G-rCk&locale=en-US)  
+### 🔹 **Property Price Prediction**  
+- **Tools:** Python, LazyRegressor  
+- **Outcome:** Accurate predictions with R² > 0.9  
 
 ---
 
 ## 📈 GitHub Stats  
-![Waqas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
 
 ---
 
 ## 🎯 Fun Facts  
-- 🚴 I enjoy outdoor activities like cycling  
-- 🧠 Currently learning **advanced deep learning models**  
-- 🎯 Aiming to publish my first **data science research paper** this year  
+- 🚴 Enjoy outdoor adventures & cycling  
+- 🧠 Exploring advanced AI techniques  
+- 🎯 Aiming to publish my **first research paper** soon!  
