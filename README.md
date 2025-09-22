@@ -1,9 +1,11 @@
 <div align="center">
 
-<img alt="Hero Banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,50:1f1f1f,100:0a0a0a&text=Waqas%20Naveed&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision&descAlign=50&descAlignY=60" />
+<img alt="Hero Banner" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0a0a,50:1f1f1f,100:0a0a0a&text=Waqas%20Naveed&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision&descAlign=50&descAlignY=60" />
 
 <p>
-  <img alt="Typing Intro" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=600&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=Designing+modern%2C+production‑grade+ML+systems;RAG%2C+LLMs%2C+and+scalable+MLOps;Neon+accents%2C+clean+delivery" />
+  <img alt="Typing Line 1" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=7DF9FF&center=true&vCenter=true&repeat=true&width=900&lines=Designing+modern%2C+production%E2%80%91grade+ML+systems" />
+  <br/>
+  <img alt="Typing Line 2" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=700&color=BB86FC&center=true&vCenter=true&repeat=true&width=900&lines=RAG%2C+LLMs%2C+and+scalable+MLOps" />
 </p>
 
 <p>
