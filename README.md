@@ -1,29 +1,29 @@
 <div align="center">
 
-<img alt="Hero Banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:8B0000&text=Waqas%20Naveed&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Artificial%20Intelligence%20Engineer%20%7C%20Data%20Science%20%7C%20NLP%20%7C%20Computer%20Vision&descAlign=50&descAlignY=60" />
+<img alt="Hero Banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,50:1f1f1f,100:0a0a0a&text=Waqas%20Naveed&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision&descAlign=50&descAlignY=60" />
 
 <p>
-  <img alt="Typing Intro" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=FF1A1A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Building+end%E2%80%91to%E2%80%91end+ML+systems+that+ship;RAG%2C+LLMs%2C+and+scalable+MLOps;Black+%26+Red+Crafted+Engineering+%E2%9A%A1%EF%B8%8F" />
+  <img alt="Typing Intro" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=600&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=Designing+modern%2C+production‑grade+ML+systems;RAG%2C+LLMs%2C+and+scalable+MLOps;Neon+accents%2C+clean+delivery" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/waqas-naveed-630297247/" target="_blank" aria-label="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DA1E37?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=7DF9FF" />
   </a>
   <a href="https://github.com/Waqas56jb" target="_blank" aria-label="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=ffffff" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=BB86FC" />
   </a>
   <a href="https://medium.com/@waqas56jb" target="_blank" aria-label="Medium">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-1C1C1C?style=for-the-badge&logo=medium&logoColor=ffffff" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=A7F3D0" />
   </a>
   <a href="https://personal-portfolio-website-opal-five.vercel.app/" target="_blank" aria-label="Portfolio">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-B31312?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=BB86FC" />
   </a>
 </p>
 
 <p>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Waqas56jb&style=flat-square&color=DA1E37" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/Waqas56jb?style=flat-square&color=0D0D0D&labelColor=DA1E37&label=followers" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Waqas56jb&style=flat-square&color=7DF9FF&label=visits" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Waqas56jb?style=flat-square&color=0B1220&labelColor=7DF9FF&label=followers" />
 </p>
 
 </div>
@@ -48,6 +48,30 @@ I design opinionated, production‑grade ML: pragmatic data engineering, reprodu
 - ML/AI: scikit‑learn, TensorFlow, PyTorch, Keras, Hugging Face
 - CV & NLP: OpenCV, MediaPipe, NLTK, spaCy, Gensim
 - Data Eng & Cloud: Apache Spark, Hadoop, Airflow, AWS, GCP, Azure, Snowflake
+
+<details>
+  <summary>See compact skill grid</summary>
+
+  
+  <table>
+    <tr>
+      <td><img alt="Python" src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=7DF9FF" /></td>
+      <td><img alt="SQL" src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=BB86FC" /></td>
+      <td><img alt="Scala" src="https://img.shields.io/badge/Scala-0B1220?style=for-the-badge&logo=scala&logoColor=F87171" /></td>
+    </tr>
+    <tr>
+      <td><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=F59E0B" /></td>
+      <td><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=FF6B6B" /></td>
+      <td><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-0B1220?style=for-the-badge&logo=huggingface&logoColor=FBBF24" /></td>
+    </tr>
+    <tr>
+      <td><img alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-0B1220?style=for-the-badge&logo=apachespark&logoColor=F97316" /></td>
+      <td><img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-0B1220?style=for-the-badge&logo=apacheairflow&logoColor=34D399" /></td>
+      <td><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0B1220?style=for-the-badge&logo=opencv&logoColor=60A5FA" /></td>
+    </tr>
+  </table>
+
+</details>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-0D0D0D?style=flat&logo=python&logoColor=DA1E37" />
@@ -132,24 +156,24 @@ I occasionally write about applied AI and ML engineering.
 ### GitHub Overview
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=DA1E37&icon_color=DA1E37" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=dark&hide_border=true&title_color=DA1E37" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=7DF9FF&icon_color=BB86FC" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=radical&hide_border=true&title_color=7DF9FF" />
 </p>
 
 <p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=Waqas56jb&theme=dark&hide_border=true&ring=DA1E37&fire=DA1E37&currStreakLabel=FFFFFF" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=Waqas56jb&theme=radical&hide_border=true&ring=7DF9FF&fire=BB86FC&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas56jb&bg_color=0D0D0D&color=FFFFFF&line=DA1E37&point=DA1E37&area=true&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas56jb&bg_color=0B1220&color=7DF9FF&line=BB86FC&point=7DF9FF&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Waqas56jb&theme=onestar&no-frame=true&row=1&margin-w=12&margin-h=12&title=Commit,Repositories,Issues,Stars,Followers,PullRequest" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Waqas56jb&theme=algolia&no-frame=true&row=1&margin-w=12&margin-h=12&title=Commit,Repositories,Issues,Stars,Followers,PullRequest" />
 </p>
 
 <p align="center">
-  <img alt="Metrics" src="https://metrics.lecoq.io/Waqas56jb?template=classic&repositories.forks=true&stars=1&followup=1&habits=1&isocalendar=1&lines=1&people=1&achievements=1&notable=1&base=header,activity,community,repositories,metadata&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FKarachi&config.animated=true&config.twemoji=true" />
+  <img alt="Metrics" src="https://metrics.lecoq.io/Waqas56jb?template=classic&repositories.forks=true&stars=1&followup=1&habits=1&isocalendar=1&lines=1&people=1&achievements=1&notable=1&base=header,activity,community,repositories,metadata&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FKarachi&config.animated=true&config.twemoji=true&config.display=columns" />
 </p>
 
 <details>
@@ -170,7 +194,7 @@ I occasionally write about applied AI and ML engineering.
 
 <div align="center">
 
-<img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:8B0000,100:000000" />
+<img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0a0a0a,100:1f1f1f" />
 
 </div>
 
