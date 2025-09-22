@@ -144,6 +144,14 @@ I occasionally write about applied AI and ML engineering.
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas56jb&bg_color=0D0D0D&color=FFFFFF&line=DA1E37&point=DA1E37&area=true&hide_border=true" />
 </p>
 
+<p align="center">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Waqas56jb&theme=onestar&no-frame=true&row=1&margin-w=12&margin-h=12&title=Commit,Repositories,Issues,Stars,Followers,PullRequest" />
+</p>
+
+<p align="center">
+  <img alt="Metrics" src="https://metrics.lecoq.io/Waqas56jb?template=classic&repositories.forks=true&stars=1&followup=1&habits=1&isocalendar=1&lines=1&people=1&achievements=1&notable=1&base=header,activity,community,repositories,metadata&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FKarachi&config.animated=true&config.twemoji=true" />
+</p>
+
 <details>
   <summary>Fun facts</summary>
   
@@ -165,5 +173,48 @@ I occasionally write about applied AI and ML engineering.
 <img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:8B0000,100:000000" />
 
 </div>
+
+---
+
+### Services
+
+- End‑to‑end ML systems: data pipelines → training → deployment
+- Retrieval‑Augmented Generation (RAG) with LLMs (LangChain, vector DBs)
+- Fine‑tuning and evaluation of transformers for NLP/CV
+- MLOps: orchestration (Airflow), experiment tracking, CI/CD for ML
+- Dashboards and analytics: Power BI for insight delivery
+
+---
+
+### Tools I Use Daily
+
+- Dev & Ops: GitHub, Docker, VS Code, Linux, Make
+- Data & Pipelines: Spark, Airflow, Pandas, SQL, dbt (where applicable)
+- Modeling: scikit‑learn, PyTorch, TensorFlow, Keras, Hugging Face
+- Cloud: AWS (S3, Lambda, ECS), GCP (GCS, Cloud Run), Azure
+
+---
+
+### Tech Highlights at a Glance
+
+<p>
+  <img alt="Badge" src="https://img.shields.io/badge/LLMs-0D0D0D?style=for-the-badge&logo=openai&logoColor=DA1E37" />
+  <img alt="Badge" src="https://img.shields.io/badge/RAG-0D0D0D?style=for-the-badge&logo=apachekafka&logoColor=DA1E37" />
+  <img alt="Badge" src="https://img.shields.io/badge/Vector%20DBs-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=DA1E37" />
+  <img alt="Badge" src="https://img.shields.io/badge/MLOps-0D0D0D?style=for-the-badge&logo=githubactions&logoColor=DA1E37" />
+  <img alt="Badge" src="https://img.shields.io/badge/CV-0D0D0D?style=for-the-badge&logo=opencv&logoColor=DA1E37" />
+</p>
+
+---
+
+### ❤️ Crafted With
+
+<p align="center">
+  <img alt="Divider" src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-black%20%26%20red-DA1E37?style=for-the-badge&labelColor=0D0D0D" />
+</p>
+
+<p align="center">
+  Built with care, curiosity, and a bias for shipping.
+</p>
 
 
