@@ -1,28 +1,29 @@
 <div align="center">
 
-<h1>Waqas Naveed</h1>
+<img alt="Hero Banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:8B0000&text=Waqas%20Naveed&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Artificial%20Intelligence%20Engineer%20%7C%20Data%20Science%20%7C%20NLP%20%7C%20Computer%20Vision&descAlign=50&descAlignY=60" />
 
 <p>
-  <strong>Artificial Intelligence Engineer</strong> · Data Science · NLP · Computer Vision · Data Engineering
-</p>
-
-<p>
-  BS Computer Science @ FAST-NUCES · Open to AI/ML roles and collaborations
+  <img alt="Typing Intro" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=FF1A1A&center=true&vCenter=true&multiline=true&repeat=true&width=800&lines=Building+end%E2%80%91to%E2%80%91end+ML+systems+that+ship;RAG%2C+LLMs%2C+and+scalable+MLOps;Black+%26+Red+Crafted+Engineering+%E2%9A%A1%EF%B8%8F" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/waqas-naveed-630297247/" target="_blank" aria-label="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DA1E37?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   <a href="https://github.com/Waqas56jb" target="_blank" aria-label="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   <a href="https://medium.com/@waqas56jb" target="_blank" aria-label="Medium">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-1C1C1C?style=for-the-badge&logo=medium&logoColor=ffffff" />
   </a>
   <a href="https://personal-portfolio-website-opal-five.vercel.app/" target="_blank" aria-label="Portfolio">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-B31312?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
+</p>
+
+<p>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Waqas56jb&style=flat-square&color=DA1E37" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/Waqas56jb?style=flat-square&color=0D0D0D&labelColor=DA1E37&label=followers" />
 </p>
 
 </div>
@@ -32,6 +33,8 @@
 ### About
 
 I’m an AI Engineer specializing in building end‑to‑end machine learning systems that move from experiment to production. My work spans data pipelines, model training and evaluation, and serving ML in real products. I care about clarity, measurable impact, and shipping reliable systems.
+
+I design opinionated, production‑grade ML: pragmatic data engineering, reproducible experiments, reliable inference, and clean integration into products. Craft on black. Accents in red. Precision in delivery.
 
 - Current focus: Retrieval‑Augmented Generation (RAG), fine‑tuning LLMs, and scalable MLOps.
 - Interests: NLP, applied computer vision, data engineering for analytics at scale.
@@ -47,12 +50,12 @@ I’m an AI Engineer specializing in building end‑to‑end machine learning sy
 - Data Eng & Cloud: Apache Spark, Hadoop, Airflow, AWS, GCP, Azure, Snowflake
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=black" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D0D0D?style=flat&logo=python&logoColor=DA1E37" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0D0D0D?style=flat&logo=tensorflow&logoColor=DA1E37" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0D0D0D?style=flat&logo=pytorch&logoColor=DA1E37" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-0D0D0D?style=flat&logo=huggingface&logoColor=DA1E37" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-0D0D0D?style=flat&logo=apachespark&logoColor=DA1E37" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-0D0D0D?style=flat&logo=apacheairflow&logoColor=DA1E37" />
 </p>
 
 ---
@@ -129,8 +132,16 @@ I occasionally write about applied AI and ML engineering.
 ### GitHub Overview
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=dark&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Waqas56jb&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=DA1E37&icon_color=DA1E37" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas56jb&layout=compact&theme=dark&hide_border=true&title_color=DA1E37" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=Waqas56jb&theme=dark&hide_border=true&ring=DA1E37&fire=DA1E37&currStreakLabel=FFFFFF" />
+</p>
+
+<p align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas56jb&bg_color=0D0D0D&color=FFFFFF&line=DA1E37&point=DA1E37&area=true&hide_border=true" />
 </p>
 
 <details>
@@ -148,5 +159,11 @@ I occasionally write about applied AI and ML engineering.
 - Email: waqas56jb@gmail.com
 - LinkedIn: https://www.linkedin.com/in/waqas-naveed-630297247/
 - Portfolio: https://personal-portfolio-website-opal-five.vercel.app/
+
+<div align="center">
+
+<img alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:8B0000,100:000000" />
+
+</div>
 
 
